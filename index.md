@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Wedding of Anna Sheasby and James Thomas
+title: Key Info
 ---
 
 ## 25th October 2014, 2pm
@@ -17,8 +17,7 @@ title: The Wedding of Anna Sheasby and James Thomas
 - **6pm** - Hot buffet
 - **7.30pm** - Speeches and the cutting of the cake *(all welcome)*
 - **8.30pm** - Ceilidh *(all welcome)*
-- **9.30pm** - Cold buffet available *(all welcome)*
-- **10.30pm** - End
+- **11pm** - End
 
 ## RSVP
 

@@ -1,0 +1,36 @@
+/*
+    Document   : css/style.css
+    Created on : 2014-05-23 02:14 PM
+    Author     : James Thomas @RightSaidJames
+    Description: Styling for myself and Anna Sheasby (@illogicalowl)'s wedding website.
+*/
+
+header {
+    color: white;
+    background: rgb(150,75,0);
+}
+
+header h1 {
+    text-align: center;
+}
+
+main h1 {
+    color: rgb(210,105,30);
+}
+
+main h2 {
+    color: rgb(150,75,0);
+}
+
+ul li {
+    list-style-type: circle;
+    margin-left: 5%;
+}
+
+a {
+    color: darkred;
+}
+
+a:hover, a:visited {
+    color: rgb(150,75,0);
+}
