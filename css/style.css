@@ -35,6 +35,6 @@ a:hover, a:visited {
     color: rgb(150,75,0);
 }
 
-html, body {
-  font-weight: 400;
-}
+
+    strong { font-weight: bolder; }
+
