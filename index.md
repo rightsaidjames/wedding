@@ -14,7 +14,7 @@ title: Key Info
 - **14.00** - Wedding at **Grove Street Methodist Church**, Retford *(all welcome)*
 - **15.00** - Tea and cake in the church hall *(all welcome)*
 - **16.30** - Arrival drinks at **Sturton-le-Steeple Village Hall**
-- **17.30&** - Hot buffet 
+- **17.30** - Hot buffet 
 - **19.00** - Speeches and cutting of the cake *(all welcome)*
 - **20.00 – 23.00** - Ceilidh with The Bash Street Band *(all welcome)*
 
