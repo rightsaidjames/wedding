@@ -29,11 +29,11 @@ ul li {
     margin-left: 5%;
 }
 
-a {
+a, a:visited {
     color: darkred;
 }
 
-a:hover, a:visited {
+a:hover, a:focus, {
     color: rgb(150,75,0);
 }
 
@@ -66,7 +66,7 @@ header nav ul li {
     display: inline;
 }
 
-header nav ul li a {
+header a, header a:visited {
     font-size: 1.5em; /* 36 / 16 */
     line-height: 1.333333333333333em; /* 48 / 36 */
     margin-bottom: .6666666666666667em; /* 24 / 36 */
@@ -75,7 +75,7 @@ header nav ul li a {
     text-decoration: none;
 }
 
-header nav ul li a:hover, header nav ul li a:visited {
+header nav ul li a:hover, header nav ul li a:focus {
     color: #FFFAF0;
 }
 
@@ -96,7 +96,7 @@ a.cta-button {
     font-weight: bolder;
 }
 
-a.cta-button:hover {
+a.cta-button:hover, a.cta-button:focus {
     color: white;
     text-decoration: underline;
 }
