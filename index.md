@@ -22,6 +22,6 @@ title: Key Info
 
 To RSVP to our wedding please click the button below. Alternatively please email James and Anna at [wedding@sheasbythomas.co.uk](mailto:wedding@sheasbythomas.co.uk).
 
-<a href="https://docs.google.com/forms/d/1TtBcK140dAYMCQHyxWdsATsGpH5PXzilo1uBaXNuAd4/viewform" target="_blank" class="cta-button">RSVP</a>
+<a href="https://docs.google.com/forms/d/1TtBcK140dAYMCQHyxWdsATsGpH5PXzilo1uBaXNuAd4/viewform" target="_blank" class="cta-button grow">RSVP</a>
 
 Please specify any dietary requirements when RSVPing.
