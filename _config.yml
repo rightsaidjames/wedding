@@ -1,4 +1,4 @@
 name: Anna and James' Wedding
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 baseurl: ""
