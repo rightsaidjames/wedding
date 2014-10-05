@@ -11,7 +11,9 @@ title: Key Info
 
 ## Timetable
 
-- **14.30** - Wedding at **[St Peter and St Paul's Church](https://goo.gl/maps/uUOB6)**, Sturton-le-Steeple *(all welcome)* - **NOTE VENUE and TIME CHANGE!**
+**NOTE VENUE and TIME CHANGE!**
+
+- **14.30** - Wedding at **[St Peter and St Paul's Church](https://goo.gl/maps/uUOB6)**, Sturton-le-Steeple *(all welcome)*
 - **15.30** - Tea and cake in the church hall *(all welcome)*
 - **16.30** - Arrival drinks at **[Sturton-le-Steeple Village Hall](https://goo.gl/maps/nAAXb)**
 - **17.30** - Hot buffet 
