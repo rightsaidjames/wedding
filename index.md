@@ -11,7 +11,7 @@ title: Key Info
 
 ## Timetable
 
-**NOTE VENUE and TIME CHANGE!**
+**Note venue and time change for wedding service!**
 
 - **14.30** - Wedding at **[St Peter and St Paul's Church](https://goo.gl/maps/uUOB6)**, Sturton-le-Steeple *(all welcome)*
 - **15.30** - Tea and cake in the church hall *(all welcome)*
