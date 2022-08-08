@@ -1,29 +1,18 @@
 ---
 layout: default
-title: Key Info
+title: James and Anna Sheasby Thomas
 ---
 
-## 25th October 2014, 2pm
+## Welcome
 
-### Grove Street Methodist Church, Retford
+This was previously the 2014 wedding website for Anna Sheasby and James Thomas (now Anna and James Sheasby Thomas).
 
-### Sturton-le-Steeple Village Hall
+In 2022, James has only just got around to removing all wedding content, and has yet to decide what to do with it.
 
-## Timetable
+## Contact Us
 
-**Note venue and time change for wedding service!**
+You can contact James and Anna via james@ (this domain name) and anna@ (this domain name) respectively.
 
-- **14.30** - Wedding at **[St Peter and St Paul's Church](https://goo.gl/maps/uUOB6)**, Sturton-le-Steeple *(all welcome)*
-- **15.30** - Tea and cake in the church hall *(all welcome)*
-- **16.30** - Arrival drinks at **[Sturton-le-Steeple Village Hall](https://goo.gl/maps/nAAXb)**
-- **17.30** - Hot buffet 
-- **19.00** - Speeches and cutting of the cake
-- **20.00 – 23.00** - Ceilidh with The Bash Street Band *(all welcome)*
+James has a [personal blog](https://rightsaidjames.com/). He can be found on Twitter as [@RightSaidJames](https://twitter.com/RightSaidJames), and also on [LinkedIn](https://www.linkedin.com/in/rightsaidjames/), [Instagram](https://www.instagram.com/rightsaidjames/) and [TikTok](https://www.tiktok.com/@rightsaidjames) under the same username.
 
-## RSVP
-
-To RSVP to our wedding please click the button below. Alternatively please email James and Anna at [wedding@sheasbythomas.co.uk](mailto:wedding@sheasbythomas.co.uk).
-
-<a href="https://docs.google.com/forms/d/1TtBcK140dAYMCQHyxWdsATsGpH5PXzilo1uBaXNuAd4/viewform" target="_blank" class="cta-button grow">RSVP</a>
-
-Please specify any dietary requirements when RSVPing.
+Anna can be found on Instagram as [@yarnsandstories](https://www.instagram.com/yarnsandstories/).
