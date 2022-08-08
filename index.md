@@ -1,6 +1,6 @@
 ---
 layout: default
-title: James and Anna Sheasby Thomas
+title: Home
 ---
 
 ## Welcome
